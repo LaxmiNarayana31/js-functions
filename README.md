@@ -1,7 +1,7 @@
 # JavaScript Functions 
 
 ## 1. Named Functions
-A named functio is a traditional function with a name that can be called and referenced within its scope.
+A named function is a traditional function with a name that can be called and referenced within its scope.
 
 ```javascript
 function add(a, b) {
