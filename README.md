@@ -114,7 +114,7 @@ console.log(generator.next().value);  // Outputs: 3
 - The yield keyword allows the function to pause execution and return a value.
 - Generators are useful for creating sequences of values and implementing iterators.
 
-## 7. Async Functions
+## 8. Async Functions
 An async function allows asynchronous operations to be written in a more readable manner using async and await.
 ```javascript
 async function fetchData() {
